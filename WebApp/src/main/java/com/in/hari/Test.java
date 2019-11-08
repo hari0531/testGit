@@ -11,7 +11,11 @@ public class Test {
 		System.out.println("line5..");
 		System.out.println("line6..");
 		System.out.println("line7..");
+<<<<<<< HEAD
 		System.out.println("line8..eclipse");
+=======
+		System.out.println("line8..STS");
+>>>>>>> branch 'master' of https://github.com/hari0531/testGit.git
 		
 	}
 }
